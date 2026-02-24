@@ -1,0 +1,24 @@
+{
+  "name": "zk-ava-starter-kit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jatinsahijwani/zk-ava-starter-kit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jatinsahijwani/zk-ava-starter-kit/issues"
+  },
+  "homepage": "https://github.com/jatinsahijwani/zk-ava-starter-kit#readme",
+  "dependencies": {
+    "zk-ava-sdk": "^1.0.1"
+  }
+}
